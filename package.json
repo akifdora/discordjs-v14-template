@@ -1,0 +1,25 @@
+{
+  "name": "discordjs-v14-template",
+  "version": "1.0.0",
+  "description": "Discord.js V14 Template",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "discord v14",
+    "discordjs v14",
+    "discord.js",
+    "discord.js v14"
+  ],
+  "author": "akifdora",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^8.0.0",
+    "canvafy": "^2.0.2",
+    "discord.js": "^14.3.0",
+    "express": "^4.18.2",
+    "quick.db": "^9.0.6"
+  }
+}
