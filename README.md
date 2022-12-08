@@ -1,1 +1,1 @@
-# discordjs-v14-template
+# Discord.JS v14 Bot Template
